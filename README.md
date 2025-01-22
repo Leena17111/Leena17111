@@ -1,56 +1,61 @@
 # Welcome to My GitHub Profile 👋
 
-Hi, I’m **Leena Ataelmanan**, a software engineering student at **Universiti Teknologi Malaysia (UTM)**.  
+Hi, I’m **Leena Ataelmanan**, a software engineering student at **Universiti Teknologi Malaysia (UTM)**. I’m passionate about solving real-world problems through technology and constantly exploring new ways to improve my skills. 🚀
+
 ---
 
 ## About Me
 - 🎓 **Field of Study:** Software Engineering  
-- 👀 **Key Interests:** Problem-solving, software design, and data analysis.  
-- 🎯 **Professional Goals:** To collaborate on innovative projects and enhance my programming skills.
+- 💡 **Interests:** Problem-solving, software design, and data analysis  
+- 🎯 **Goals:** To collaborate on innovative projects and enhance my programming expertise.
 
 ---
 
 ## Featured Projects
 
-### **Technology and Information System (TIS) Projects, Assignments and Lab**
-- **DesignThinkingProjectMindSync:** A mental health platform designed to improve student well-being.
-- **Assignment1EYPoster:** Digital poster design focusing on technology innovations.  
-- **Assignment2UTMDigital:** Exploring UTM's digital transformation initiatives.  
-- **Assignment3AcademicReport:** Academic report analysis and findings.  
-- **Assignment4MagicX:** Innovative solutions for enhancing student experiences.  
+### **Technology and Information System (TIS) Projects**
+- 🌱 **DesignThinkingProjectMindSync:** A mental health platform designed to support student well-being.  
+- 🎨 **Assignment1EYPoster:** Digital poster design exploring technology innovations.  
+- 🌐 **Assignment2UTMDigital:** Investigating UTM's digital transformation.  
+- 📊 **Assignment3AcademicReport:** Academic report analysis and findings.  
+- 🔮 **Assignment4MagicX:** Developing innovative solutions for improving student experiences.  
 
 ### **Other Academic Projects**
-- **MerantiOnlineOrderingSystem:** An online ordering system for Meranti in UTM.  
-- **E-Ticketing System:** Integrated e-ticketing system within e-learning to receive students' complaints.
+- 🍴 **MerantiOnlineOrderingSystem:** Online ordering platform for UTM's cafeteria.  
+- 🎫 **E-Ticketing System:** Integrated complaint and ticketing system for e-learning.
 
 ---
 
 ## Skills & Expertise
 
-### **Programming Languages**
-- C++, Python, SQL, HTML
+### **Languages**
+- 🐍 Python  
+- 💾 SQL  
+- 🌐 HTML  
+- ⚙️ C++
 
-### **Tools & Technologies**
-- GitHub, Visual Studio, VSCode, MySQL
+### **Tools**
+- 🖥️ GitHub  
+- ✏️ Visual Studio, VSCode  
+- 💽 MySQL  
 
 ---
 
 ## How to Connect
-I’m always eager to collaborate and connect with professionals in the field. Feel free to reach out:
-
+Let’s collaborate and build something impactful! You can reach me here:  
 - 📧 **Email:** [leenaata123@gmail.com](mailto:leenaata123@gmail.com)  
-- 💼 **LinkedIn:** [Leena Ata](https://www.linkedin.com/in/leena-ata-464747346)
+- 💼 **LinkedIn:** [Leena Ata](https://www.linkedin.com/in/leena-ata-464747346)  
 
 ---
 
-## Personal Interests
-- **Basketball:** A sport that hones my teamwork and strategic skills.  
-- **Problem-Solving:** Enhancing logic and critical thinking using websites such as LeetCode.  
-- **Exploring New Technologies:** Staying ahead of emerging trends in the tech industry.  
+## Interests
+- 🏀 **Basketball:** Builds teamwork and strategic thinking.  
+- 🧠 **Problem-Solving:** Enjoy enhancing my logic skills through coding challenges.  
+- 🔍 **Exploring New Tech:** Keeping up with the latest trends in software development.  
 
 ---
 
-Thank you for visiting my GitHub profile! Let’s work together to build solutions that make a difference. 🚀
+Thank you for visiting my GitHub profile! Let’s create meaningful solutions together. 🌟
 
 
 <!---
