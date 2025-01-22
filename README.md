@@ -5,7 +5,7 @@ Hi, I’m **Leena Ataelmanan**, a software engineering student at **Universiti T
 ---
 
 ## About Me
-- 🎓 **Field of Study:** Software Engineering  
+- 🎓 **Field of Study:** Computer Science, Software Engineering  
 - 💡 **Interests:** Problem-solving, software design, and data analysis  
 - 🎯 **Goals:** To collaborate on innovative projects and enhance my programming expertise.
 
@@ -37,7 +37,7 @@ Hi, I’m **Leena Ataelmanan**, a software engineering student at **Universiti T
 
 ### **Tools**
 - 🖥️ GitHub  
-- ✏️ Visual Studio, VSCode  
+- ✏️ Visual Studio
 - 💽 MySQL  
 
 ---
