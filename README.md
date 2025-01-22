@@ -22,8 +22,8 @@ Hi, I’m **Leena Ataelmanan**, a software engineering student at **Universiti T
 - 🖥️ [**PC Assembly Lab:**](https://github.com/Leena17111/SECP1513-PC-Assembly-Lab-Group4) Hands-on exploration of PC disassembly and reassembly. Learned about internal components like the PSU, HDD, RAM, and cooling systems, and reinforced knowledge with a quiz.
 
 ### **Other Academic Projects**
-- 🍔 [**MerantiOnlineOrderingSystem:**](https://github.com/Leena17111/Meranti-Online-Ordering-System) An online ordering platform for UTM's cafeteria.  
-- 🎫 [**E-Ticketing System:**](https://github.com/Leena17111/E-Ticketing-System) Integrated e-ticketing system within e-learning to receive student complaints.  
+- 🍔 [**MerantiOnlineOrderingSystem:**](https://github.com/Leena17111/SECJ1023-Meranti-Ordering-System-Problem-Analysis-Group9) An online ordering platform for UTM's cafeteria.  
+- 🎫 [**E-Ticketing System:**](https://github.com/Leena17111/SECD2523-E-Ticketing-System-Design-Group3) Integrated e-ticketing system within e-learning to receive student complaints.  
 
 ---
 
