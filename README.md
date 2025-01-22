@@ -14,15 +14,16 @@ Hi, I’m **Leena Ataelmanan**, a software engineering student at **Universiti T
 ## Featured Projects
 
 ### **Technology and Information System (TIS) Projects**
-- 🌱 **DesignThinkingProjectMindSync:** A mental health platform designed to support student well-being.  
-- 🎨 **Assignment1EYPoster:** Digital poster design exploring technology innovations.  
-- 🌐 **Assignment2UTMDigital:** Investigating UTM's digital transformation.  
-- 📊 **Assignment3AcademicReport:** Academic report analysis and findings.  
-- 🔮 **Assignment4MagicX:** Developing innovative solutions for improving student experiences.  
+- 🌱 [**DesignThinkingProjectMindSync:**](https://github.com/Leena17111/SECP1513-Design-Thinking-Project-Mindsync-Group4) A mental health platform designed to support student well-being.  
+- 🎨 [**Assignment1EYPoster:**](https://github.com/Leena17111/SECP1513-IndustrialTalk01--EyTechnologyConsulting--Group4) Digital poster design exploring technology innovations.  
+- 🌐 [**Assignment2UTMDigital:**](https://github.com/Leena17111/SECP1513-IndustrialVisit01-UTMDIGITAL-Group4) Investigating UTM's digital transformation.  
+- 📊 [**Assignment3AcademicReport:**](https://github.com/Leena17111/SECP1513-IndustrialTalk02-Entrepreneurship-In-IT-Group-4) Academic report analysis and findings.  
+- 🔮 [**Assignment4MagicX:**](https://github.com/Leena17111/SECP1513-IndustrialVisit02-MAGICX-Group-4) Developing innovative solutions for improving student experience at MAGICX in UTM.  
+- 🖥️ [**PC Assembly Lab:**](https://github.com/Leena17111/SECP1513-PC-Assembly-Lab-Group4) Hands-on exploration of PC disassembly and reassembly. Learned about internal components like the PSU, HDD, RAM, and cooling systems, and reinforced knowledge with a quiz.
 
 ### **Other Academic Projects**
-- 🍴 **MerantiOnlineOrderingSystem:** Online ordering platform for UTM's cafeteria.  
-- 🎫 **E-Ticketing System:** Integrated complaint and ticketing system for e-learning.
+- 🍔 [**MerantiOnlineOrderingSystem:**](https://github.com/Leena17111/Meranti-Online-Ordering-System) An online ordering platform for UTM's cafeteria.  
+- 🎫 [**E-Ticketing System:**](https://github.com/Leena17111/E-Ticketing-System) Integrated e-ticketing system within e-learning to receive student complaints.  
 
 ---
 
@@ -55,7 +56,8 @@ Let’s collaborate and build something impactful! You can reach me here:
 
 ---
 
-Thank you for visiting my GitHub profile! Let’s create meaningful solutions together. 🌟
+✨ Thank you for visiting my GitHub profile! Let’s create meaningful solutions together. 🌟
+
 
 
 <!---
